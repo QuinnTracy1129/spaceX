@@ -1,0 +1,8 @@
+.list-group {
+  max-height: 400px;
+  overflow-y: scroll;
+}
+
+.list-group-item {
+  min-height: 100px;
+}
